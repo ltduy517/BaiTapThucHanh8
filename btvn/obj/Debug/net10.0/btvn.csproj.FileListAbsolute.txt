@@ -1,0 +1,14 @@
+C:\Users\TRUNG DUY\BaiTapThucHanh8\btvn\bin\Debug\net10.0\btvn.exe
+C:\Users\TRUNG DUY\BaiTapThucHanh8\btvn\bin\Debug\net10.0\btvn.deps.json
+C:\Users\TRUNG DUY\BaiTapThucHanh8\btvn\bin\Debug\net10.0\btvn.runtimeconfig.json
+C:\Users\TRUNG DUY\BaiTapThucHanh8\btvn\bin\Debug\net10.0\btvn.dll
+C:\Users\TRUNG DUY\BaiTapThucHanh8\btvn\bin\Debug\net10.0\btvn.pdb
+C:\Users\TRUNG DUY\BaiTapThucHanh8\btvn\obj\Debug\net10.0\btvn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRUNG DUY\BaiTapThucHanh8\btvn\obj\Debug\net10.0\btvn.AssemblyInfoInputs.cache
+C:\Users\TRUNG DUY\BaiTapThucHanh8\btvn\obj\Debug\net10.0\btvn.AssemblyInfo.cs
+C:\Users\TRUNG DUY\BaiTapThucHanh8\btvn\obj\Debug\net10.0\btvn.csproj.CoreCompileInputs.cache
+C:\Users\TRUNG DUY\BaiTapThucHanh8\btvn\obj\Debug\net10.0\btvn.dll
+C:\Users\TRUNG DUY\BaiTapThucHanh8\btvn\obj\Debug\net10.0\refint\btvn.dll
+C:\Users\TRUNG DUY\BaiTapThucHanh8\btvn\obj\Debug\net10.0\btvn.pdb
+C:\Users\TRUNG DUY\BaiTapThucHanh8\btvn\obj\Debug\net10.0\btvn.genruntimeconfig.cache
+C:\Users\TRUNG DUY\BaiTapThucHanh8\btvn\obj\Debug\net10.0\ref\btvn.dll
